@@ -1,0 +1,8 @@
+While creating this website getting the formatting of the main home page (index.html) to be formatted the way I want the page to look definately was a challenge that I faced. But I was able to solve this challenge by getting more specific with ChatGPT and trying to chang of the html myself due to the comments that ChatGPT gave me on my initial set up. This made me relieze just like in other programming languages comments are important to organize your work and make it easy for you to find sections of code. 
+
+After getting the main page complete I was able to copy and paste the formatting title, links and footer sections to the 4 other sections making it easier to create these pages as I was able to focus on the contect. I first did the more simplier pages of about and contact as with these I could focus more on the actual HTML rather then the content which further allowed me to understand HTML as a language better. With a better understanding of HTML I was able to turn to the more contxt based pages of gettind startd and ideas and inspiration. 
+
+Overall, once I got the general layout template that I liked including colors I was able to move forward at a good pace and understand more about HTML along the way. I included the HTML colors that I used below just so I could remember when I came back to work on the website over time. 
+
+HTML Colors: olive, darkolivegreen, ivory, rosybrown, saddlebrown
+hex code colors: #fff8f0
